@@ -1,5 +1,6 @@
 # Note
 
+[Google Spreadsheet](https://docs.google.com/spreadsheets/d/1gZrCQldm6Gt_gBLrl6fyPcEJZZabByJpIQV2Z5Bx0YQ/edit?usp=sharing)
 More devices to be added along with Virtual Machine software. 
 
 # Tested Devices 
