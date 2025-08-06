@@ -4,7 +4,7 @@ Genesis v0.1.0 is currently in development. Find it on branch "Genesis-Beta-v0.1
 
 # KassOS
 
-KassOS is currently a kernel written in x86 Assembly that was designed to run on a Dell Inspiron 1525. This "Operating System" is a heavly WIP. The current versions, v0.0.5 and Beta v0.0.5, are the only supported version as of now.  By the end of 2025, the plan is to have a fully functional Operating System with a fully custom Bootloader. 
+Astro is currently a kernel written in x86 Assembly that was designed to run on a Dell Inspiron 1525. This "Operating System" is a heavly WIP. The current versions, v0.0.5 and Beta v0.0.5, are the only supported version as of now.  By the end of 2025, the plan is to have a fully functional Operating System with a fully custom Bootloader. 
 
 # Support
 
