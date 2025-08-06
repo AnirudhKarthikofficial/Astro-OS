@@ -12,7 +12,7 @@ Astro is currently a kernel written in x86 Assembly that was designed to run on 
 
 # Hardware and Virtualiztion 
 
-KassOS was originally developed to run on a Dell Inspiron 1525 with an Intel Core2Duo (for Legacy Updates), so if you want the original experince I suggest you get one. If you want to run KassOS inside a VM, I suggest you use QEMU as it's given the best results.
+KassOS was originally developed to run on a Dell Inspiron 1525 with an Intel Core2Duo (for Legacy Updates), so if you want the original experience I suggest you get one. If you want to run KassOS inside a VM, I suggest you use QEMU as it's given the best results.
 
 # Getting Changed 
 
